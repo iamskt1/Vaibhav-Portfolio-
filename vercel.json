@@ -1,0 +1,8 @@
+{
+  "builds": [
+    { "src": "vaibhav portfolio.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/", "dest": "/vaibhav portfolio.html" }
+  ]
+}
